@@ -1,5 +1,7 @@
-import React from 'react'
+/* eslint-disable no-unused-vars */
 
-const NavBar = () => {}
+import React from "react";
 
-export default NavBar
+const NavBar = () => {};
+
+export default NavBar;

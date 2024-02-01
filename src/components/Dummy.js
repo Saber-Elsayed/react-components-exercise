@@ -1,5 +1,14 @@
-import React, { Component } from 'react';
+/* eslint-disable no-unused-vars */
 
-const Dummy = () => {}
+import React, { Component } from "react";
 
-export default Dummy
+const Dummy = () => {
+  return (
+    <div>
+      <input type="text" placeholder="Enter something" />
+      <button>Click me</button>
+    </div>
+  );
+};
+
+export default Dummy;

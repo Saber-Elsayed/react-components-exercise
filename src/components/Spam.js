@@ -1,5 +1,9 @@
-import React, { Component } from 'react';
+/* eslint-disable no-unused-vars */
 
-const Spam =()=>{}
+import React, { Component } from "react";
 
-export default Spam
+const Spam = () => {
+  return <div>Spam</div>;
+};
+
+export default Spam;
